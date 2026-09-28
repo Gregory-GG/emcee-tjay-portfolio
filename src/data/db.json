@@ -1,0 +1,796 @@
+{
+  "profile": {
+    "name": "Brian \"TJAY\" Mugambi",
+    "brandName": "Emcee TJAY",
+    "handle": "@tjay.emcee",
+    "role": "MC, comedian and event host",
+    "location": "Nairobi, Kenya",
+    "heroShortcode": "DdGlEt0tPt2",
+    "stageShortcode": "DcQMpLetiJp",
+    "liveReelShortcode": "Dd0qixxNeOC",
+    "portraitShortcode": "Dds-DX7tzvI",
+    "aboutPhotoShortcodes": [
+      "Dc-afUzN0df",
+      "DdTNIKIjcWW",
+      "DddkreTNlcF",
+      "Ddk0fj2IN8q",
+      "DdXtHtLCCbr",
+      "Db7nB2_NsCL"
+    ],
+    "photoCredit": "Dan Epic Studio",
+    "training": "Public-speaking training at iSpeak Academy",
+    "officeOpened": "2026-09"
+  },
+  "categories": [
+    {
+      "id": 1,
+      "slug": "graduations",
+      "label": "Graduations"
+    },
+    {
+      "id": 2,
+      "slug": "weddings-ruracios",
+      "label": "Weddings & Ruracios"
+    },
+    {
+      "id": 3,
+      "slug": "corporate-team-building",
+      "label": "Corporate & Team Building"
+    },
+    {
+      "id": 4,
+      "slug": "comedy-stage",
+      "label": "Comedy & Stage"
+    },
+    {
+      "id": 5,
+      "slug": "parties-celebrations",
+      "label": "Parties & Celebrations"
+    },
+    {
+      "id": 6,
+      "slug": "behind-the-mic",
+      "label": "Behind the Mic"
+    },
+    {
+      "id": 7,
+      "slug": "portraits",
+      "label": "Portraits"
+    }
+  ],
+  "posts": [
+    {
+      "shortcode": "Dd0qixxNeOC",
+      "type": "reel",
+      "title": "NIMPA Graduation, Live",
+      "description": "Live from the NIMPA Class of 2026 graduation: TJAY with a live crowd.",
+      "date": "2026-09-28",
+      "category": "graduations",
+      "placement": "grid",
+      "sourceCategory": "reel",
+      "url": "https://www.instagram.com/reel/Dd0qixxNeOC/",
+      "venue": null,
+      "client": "NIMPA",
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 1,
+      "images": []
+    },
+    {
+      "shortcode": "DdwFsbqjTHL",
+      "type": "image",
+      "title": "NIMPA Class of 2026 Graduation",
+      "description": "On the mic at the NIMPA Class of 2026 graduation.",
+      "date": "2026-09-26",
+      "category": "graduations",
+      "placement": "grid",
+      "sourceCategory": "event-graduation",
+      "url": "https://www.instagram.com/p/DdwFsbqjTHL/",
+      "venue": null,
+      "client": "NIMPA",
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 5,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-26_event-graduation__nimpa-class-2026-on-mic__DdwFsbqjTHL_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY on the microphone at the NIMPA Class of 2026 graduation ceremony"
+        }
+      ]
+    },
+    {
+      "shortcode": "Dds-DX7tzvI",
+      "type": "image",
+      "title": "Houndstooth Suit",
+      "description": "Studio portrait in a houndstooth suit.",
+      "date": "2026-09-25",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/Dds-DX7tzvI/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-25_portrait__houndstooth-suit-studio__Dds-DX7tzvI_01.webp",
+          "width": 1440,
+          "height": 1800,
+          "slide": 1,
+          "alt": "Emcee TJAY in a houndstooth suit, studio portrait"
+        }
+      ]
+    },
+    {
+      "shortcode": "Ddk0fj2IN8q",
+      "type": "image",
+      "title": "MC TJAY Branded Hoodie",
+      "description": "The MC TJAY branded hoodie.",
+      "date": "2026-09-22",
+      "category": null,
+      "placement": "brand",
+      "sourceCategory": "brand",
+      "url": "https://www.instagram.com/p/Ddk0fj2IN8q/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-22_brand__mctjay-branded-hoodie__Ddk0fj2IN8q_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY wearing an MC TJAY branded hoodie"
+        }
+      ]
+    },
+    {
+      "shortcode": "DddkreTNlcF",
+      "type": "image",
+      "title": "The MC TJAY Office Sign",
+      "description": "The MC TJAY logo sign, \"Your Event Your Voice\", at his new professional office.",
+      "date": "2026-09-19",
+      "category": null,
+      "placement": "brand",
+      "sourceCategory": "brand",
+      "url": "https://www.instagram.com/p/DddkreTNlcF/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-19_brand__mctjay-logo-office-sign__DddkreTNlcF_01.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Black and gold MC TJAY logo sign reading Your Event Your Voice on a textured wall"
+        }
+      ]
+    },
+    {
+      "shortcode": "DdXtHtLCCbr",
+      "type": "image",
+      "title": "Boxwood Garden Stairs",
+      "description": "On the stairs at Boxwood Garden, Tigoni.",
+      "date": "2026-09-16",
+      "category": null,
+      "placement": "about",
+      "sourceCategory": "lifestyle",
+      "url": "https://www.instagram.com/p/DdXtHtLCCbr/",
+      "venue": "Boxwood Garden, Tigoni",
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-16_lifestyle__boxwood-garden-tigoni-stairs__DdXtHtLCCbr_01.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY on the stairs at Boxwood Garden, Tigoni"
+        }
+      ]
+    },
+    {
+      "shortcode": "DdTNIKIjcWW",
+      "type": "carousel",
+      "title": "The Art of MC'ing",
+      "description": "Meeting veteran MC Abel the Emcee, who gave TJAY a copy of his book, The Art of MC'ing.",
+      "date": "2026-09-15",
+      "category": "behind-the-mic",
+      "placement": "grid",
+      "sourceCategory": "about",
+      "url": "https://www.instagram.com/p/DdTNIKIjcWW/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-15_about__art-of-mcing-book-mentor-meeting__DdTNIKIjcWW_01.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "A copy of The Art of MC'ing, the book veteran MC Abel the Emcee gave TJAY, held up at the table"
+        },
+        {
+          "src": "/images/portfolio/2026-09-15_about__art-of-mcing-book-mentor-meeting__DdTNIKIjcWW_02.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 2,
+          "alt": "Emcee TJAY's meeting with veteran MC Abel the Emcee (photo 2)"
+        },
+        {
+          "src": "/images/portfolio/2026-09-15_about__art-of-mcing-book-mentor-meeting__DdTNIKIjcWW_03.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 3,
+          "alt": "Emcee TJAY's meeting with veteran MC Abel the Emcee (photo 3)"
+        }
+      ]
+    },
+    {
+      "shortcode": "DdLTDlQjSI2",
+      "type": "carousel",
+      "title": "Friday Wedding at Boxwood Garden",
+      "description": "Co-hosting a Friday wedding at Boxwood Garden, Tigoni.",
+      "date": "2026-09-11",
+      "category": "weddings-ruracios",
+      "placement": "grid",
+      "sourceCategory": "event-wedding",
+      "url": "https://www.instagram.com/p/DdLTDlQjSI2/",
+      "venue": "Boxwood Garden, Tigoni",
+      "client": null,
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 4,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-11_event-wedding__friday-wedding-cohost-boxwood__DdLTDlQjSI2_01.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY co-hosting a wedding at Boxwood Garden, Tigoni"
+        },
+        {
+          "src": "/images/portfolio/2026-09-11_event-wedding__friday-wedding-cohost-boxwood__DdLTDlQjSI2_02.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 2,
+          "alt": "Emcee TJAY co-hosting a wedding at Boxwood Garden, Tigoni (photo 2)"
+        },
+        {
+          "src": "/images/portfolio/2026-09-11_event-wedding__friday-wedding-cohost-boxwood__DdLTDlQjSI2_03.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 3,
+          "alt": "Emcee TJAY co-hosting a wedding at Boxwood Garden, Tigoni (photo 3)"
+        }
+      ]
+    },
+    {
+      "shortcode": "DdGlEt0tPt2",
+      "type": "image",
+      "title": "Teal Wall Portrait",
+      "description": "Studio portrait against a teal panelled wall.",
+      "date": "2026-09-10",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/DdGlEt0tPt2/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-10_portrait__teal-wall-hero__DdGlEt0tPt2_01.webp",
+          "width": 1440,
+          "height": 1920,
+          "slide": 1,
+          "alt": "Emcee TJAY smiling in a black shawl-collar suit against a teal panelled wall"
+        }
+      ]
+    },
+    {
+      "shortcode": "Dc-afUzN0df",
+      "type": "image",
+      "title": "Training at iSpeak Academy",
+      "description": "Public-speaking training at iSpeak Academy, sharpening the craft behind the mic.",
+      "date": "2026-09-06",
+      "category": "behind-the-mic",
+      "placement": "grid",
+      "sourceCategory": "about",
+      "url": "https://www.instagram.com/p/Dc-afUzN0df/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-09-06_about__ispeak-academy-training__Dc-afUzN0df_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY at a public-speaking training session at iSpeak Academy"
+        }
+      ]
+    },
+    {
+      "shortcode": "Dcu3uJCtTZc",
+      "type": "reel",
+      "title": "Ready for the Stage",
+      "description": "A professional brand reel. Ready for the stage.",
+      "date": "2026-09-01",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "reel",
+      "url": "https://www.instagram.com/reel/Dcu3uJCtTZc/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": []
+    },
+    {
+      "shortcode": "DcncbEwtwKo",
+      "type": "image",
+      "title": "I Love Nyandarua",
+      "description": "On the road at the I Love Nyandarua sign.",
+      "date": "2026-08-29",
+      "category": null,
+      "placement": "about",
+      "sourceCategory": "lifestyle",
+      "url": "https://www.instagram.com/p/DcncbEwtwKo/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-29_lifestyle__i-love-nyandarua-sign__DcncbEwtwKo_01.jpg",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY at the I Love Nyandarua sign"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcksVdMNLuL",
+      "type": "image",
+      "title": "Seated Studio Portrait",
+      "description": "Seated studio portrait with the MC TJAY watermark.",
+      "date": "2026-08-27",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/DcksVdMNLuL/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-27_portrait__seated-studio-mc-tjay-watermark__DcksVdMNLuL_01.webp",
+          "width": 1440,
+          "height": 1920,
+          "slide": 1,
+          "alt": "Emcee TJAY seated for a studio portrait"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcdJPcCtPdZ",
+      "type": "image",
+      "title": "Banquet Set-up at PrideInn Azure",
+      "description": "The banquet hall set and ready at PrideInn Azure Hotel.",
+      "date": "2026-08-25",
+      "category": null,
+      "placement": "about",
+      "sourceCategory": "venue",
+      "url": "https://www.instagram.com/p/DcdJPcCtPdZ/",
+      "venue": "PrideInn Azure Hotel",
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-25_venue__prideinn-azure-banquet-setup__DcdJPcCtPdZ_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Banquet hall set up for an event at PrideInn Azure Hotel"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcS2hiHNDBC",
+      "type": "reel",
+      "title": "Corporate Emcee Promo",
+      "description": "Corporate emcee promo. Book TJAY for your company event.",
+      "date": "2026-08-21",
+      "category": "corporate-team-building",
+      "placement": "grid",
+      "sourceCategory": "reel",
+      "url": "https://www.instagram.com/reel/DcS2hiHNDBC/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": []
+    },
+    {
+      "shortcode": "DcQMpLetiJp",
+      "type": "image",
+      "title": "Stand-up at the Louis Leakey Auditorium",
+      "description": "Stand-up comedy on the mic at the Louis Leakey Auditorium, Nairobi National Museum. Half host, half stand-up comic.",
+      "date": "2026-08-20",
+      "category": "comedy-stage",
+      "placement": "grid",
+      "sourceCategory": "stage",
+      "url": "https://www.instagram.com/p/DcQMpLetiJp/",
+      "venue": "Louis Leakey Auditorium, Nairobi National Museum",
+      "client": null,
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 2,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-20_stage__standup-comedy-on-mic-louis-leakey__DcQMpLetiJp_01.webp",
+          "width": 1440,
+          "height": 1170,
+          "slide": 1,
+          "alt": "Emcee TJAY performing stand-up comedy with a microphone on stage at the Louis Leakey Auditorium"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcK5RgJNXOV",
+      "type": "image",
+      "title": "The Purple Suit",
+      "description": "Studio portrait in a purple suit.",
+      "date": "2026-08-17",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/DcK5RgJNXOV/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-17_portrait__purple-suit-studio__DcK5RgJNXOV_01.webp",
+          "width": 1440,
+          "height": 1920,
+          "slide": 1,
+          "alt": "Emcee TJAY in a purple suit, studio portrait"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcILKODMAkl",
+      "type": "reel",
+      "title": "5 Must-Have Qualities of an Exceptional MC",
+      "description": "TJAY breaks down five must-have qualities of an exceptional MC.",
+      "date": "2026-08-17",
+      "category": "behind-the-mic",
+      "placement": "grid",
+      "sourceCategory": "reel",
+      "url": "https://www.instagram.com/reel/DcILKODMAkl/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 6,
+      "images": []
+    },
+    {
+      "shortcode": "DcDY9fTNo11",
+      "type": "image",
+      "title": "Navy Double-Breasted",
+      "description": "Studio portrait in a navy double-breasted suit.",
+      "date": "2026-08-15",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/DcDY9fTNo11/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-15_portrait__navy-double-breasted-studio__DcDY9fTNo11_01.webp",
+          "width": 1440,
+          "height": 1919,
+          "slide": 1,
+          "alt": "Emcee TJAY in a navy double-breasted suit, studio portrait"
+        }
+      ]
+    },
+    {
+      "shortcode": "DcAuMwMDZeI",
+      "type": "carousel",
+      "title": "Studio Session",
+      "description": "A two-frame studio portrait series.",
+      "date": "2026-08-13",
+      "category": "portraits",
+      "placement": "grid",
+      "sourceCategory": "portrait",
+      "url": "https://www.instagram.com/p/DcAuMwMDZeI/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-13_portrait__studio-carousel__DcAuMwMDZeI_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Studio portrait of Emcee TJAY"
+        },
+        {
+          "src": "/images/portfolio/2026-08-13_portrait__studio-carousel__DcAuMwMDZeI_02.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 2,
+          "alt": "Studio portrait of Emcee TJAY (photo 2)"
+        }
+      ]
+    },
+    {
+      "shortcode": "Db7nB2_NsCL",
+      "type": "image",
+      "title": "Leather Jacket at Verona Hotel",
+      "description": "Off-stage in a leather jacket at Verona Hotel.",
+      "date": "2026-08-12",
+      "category": null,
+      "placement": "about",
+      "sourceCategory": "lifestyle",
+      "url": "https://www.instagram.com/p/Db7nB2_NsCL/",
+      "venue": "Verona Hotel",
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-12_lifestyle__leather-jacket-verona-hotel__Db7nB2_NsCL_01.jpg",
+          "width": 1440,
+          "height": 1913,
+          "slide": 1,
+          "alt": "Emcee TJAY in a leather jacket at Verona Hotel"
+        }
+      ]
+    },
+    {
+      "shortcode": "Db2gY_ctxS3",
+      "type": "image",
+      "title": "JWFC Fun Day 2026",
+      "description": "Event flyer for the JWFC (Juja Wellness & Fitness Community) Fun Day 2026 team-building day.",
+      "date": "2026-08-10",
+      "category": "corporate-team-building",
+      "placement": "grid",
+      "sourceCategory": "flyer",
+      "url": "https://www.instagram.com/p/Db2gY_ctxS3/",
+      "venue": null,
+      "client": "JWFC (Juja Wellness & Fitness Community)",
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-10_flyer__jwfc-fun-day-2026-team-building__Db2gY_ctxS3_01.webp",
+          "width": 1440,
+          "height": 1920,
+          "slide": 1,
+          "alt": "Event flyer for the JWFC Fun Day 2026 team-building day"
+        }
+      ]
+    },
+    {
+      "shortcode": "Db0HfDLNfjI",
+      "type": "image",
+      "title": "Wedding Backdrop with a Fellow MC",
+      "description": "At the wedding backdrop with a fellow MC.",
+      "date": "2026-08-09",
+      "category": "weddings-ruracios",
+      "placement": "grid",
+      "sourceCategory": "event-wedding",
+      "url": "https://www.instagram.com/p/Db0HfDLNfjI/",
+      "venue": null,
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-09_event-wedding__wedding-backdrop-with-fellow-mc__Db0HfDLNfjI_01.webp",
+          "width": 1440,
+          "height": 1440,
+          "slide": 1,
+          "alt": "Emcee TJAY with a fellow MC in front of a wedding backdrop"
+        }
+      ]
+    },
+    {
+      "shortcode": "DbvC6qZNaMp",
+      "type": "reel",
+      "title": "Canaan Developers Corporate Party",
+      "description": "Hosting the corporate party for Canaan Developers.",
+      "date": "2026-08-07",
+      "category": "corporate-team-building",
+      "placement": "grid",
+      "sourceCategory": "reel",
+      "url": "https://www.instagram.com/reel/DbvC6qZNaMp/",
+      "venue": null,
+      "client": "Canaan Developers",
+      "hashtags": [],
+      "featured": true,
+      "featuredOrder": 3,
+      "images": []
+    },
+    {
+      "shortcode": "Dbs421AN7yO",
+      "type": "image",
+      "title": "On the Mic at Asmara, Karen",
+      "description": "Hosting among festive decor at Asmara Restaurant in Karen.",
+      "date": "2026-08-06",
+      "category": "parties-celebrations",
+      "placement": "grid",
+      "sourceCategory": "event-festive",
+      "url": "https://www.instagram.com/p/Dbs421AN7yO/",
+      "venue": "Asmara Restaurant, Karen",
+      "client": null,
+      "hashtags": [],
+      "featured": false,
+      "featuredOrder": null,
+      "images": [
+        {
+          "src": "/images/portfolio/2026-08-06_event-festive__on-mic-festive-decor-asmara-karen__Dbs421AN7yO_01.webp",
+          "width": 1440,
+          "height": 1920,
+          "slide": 1,
+          "alt": "Emcee TJAY holding a microphone in front of festive decorations at Asmara Restaurant, Karen"
+        }
+      ]
+    }
+  ],
+  "venues": [
+    {
+      "name": "PrideInn Azure Hotel",
+      "area": "Nairobi"
+    },
+    {
+      "name": "Boxwood Garden",
+      "area": "Tigoni"
+    },
+    {
+      "name": "Louis Leakey Auditorium",
+      "area": "Nairobi National Museum"
+    },
+    {
+      "name": "Verona Hotel",
+      "area": null
+    },
+    {
+      "name": "Asmara Restaurant",
+      "area": "Karen"
+    }
+  ],
+  "events": [
+    {
+      "name": "NIMPA Class of 2026 Graduation",
+      "type": "Graduation"
+    },
+    {
+      "name": "JWFC (Juja Wellness & Fitness Community) Fun Day 2026",
+      "type": "Team building"
+    },
+    {
+      "name": "Canaan Developers Corporate Party",
+      "type": "Corporate"
+    }
+  ],
+  "collaborators": [
+    {
+      "name": "Mc Joshoyugi",
+      "role": "Mentor. Co-hosted a wedding and a hype set."
+    },
+    {
+      "name": "Abel the Emcee",
+      "role": "Veteran MC. Gave TJAY his book, The Art of MC'ing."
+    },
+    {
+      "name": "Mc Phylis",
+      "role": "Co-hosted a graduation."
+    },
+    {
+      "name": "Mc Mkwasipapa",
+      "role": "Team-building co-host."
+    }
+  ],
+  "services": [
+    {
+      "id": 1,
+      "slug": "corporate-emcee",
+      "title": "Corporate Emcee",
+      "description": "Conferences, product launches, awards nights and galas, run smoothly and on time. TJAY keeps the programme tight, the guests engaged and your brand at the centre.",
+      "icon": "briefcase",
+      "price": null
+    },
+    {
+      "id": 2,
+      "slug": "team-building-host",
+      "title": "Team-Building Host",
+      "description": "Games, challenges and crowd work for staff fun days. Your team laughs, competes and leaves closer than they came.",
+      "icon": "people-group",
+      "price": null
+    },
+    {
+      "id": 3,
+      "slug": "wedding-ruracio-mc",
+      "title": "Wedding & Ruracio MC",
+      "description": "Warm, faith-friendly hosting that keeps the programme flowing and families engaged. From the ruracio to the reception, every moment gets its due.",
+      "icon": "ring",
+      "price": null
+    },
+    {
+      "id": 4,
+      "slug": "graduation-ceremonies",
+      "title": "Graduation Ceremonies",
+      "description": "Protocol handled with dignity, from the procession to the vote of thanks. Large crowds stay engaged and every graduate gets their moment.",
+      "icon": "graduation-cap",
+      "price": null
+    },
+    {
+      "id": 5,
+      "slug": "comedy-host-standup",
+      "title": "Comedy Host & Stand-up Sets",
+      "description": "Half host, half stand-up comic, for parties, shows and comedy nights. Sharp, crowd-aware material that keeps the room laughing.",
+      "icon": "masks-theater",
+      "price": null
+    },
+    {
+      "id": 6,
+      "slug": "hype-sets-parties",
+      "title": "Hype Sets & Parties",
+      "description": "End-year parties and celebrations that need a room-lifter. TJAY brings the energy and keeps it up all night.",
+      "icon": "fire",
+      "price": null
+    },
+    {
+      "id": 7,
+      "slug": "retirement-milestone",
+      "title": "Retirement & Milestone Ceremonies",
+      "description": "Dignified, personal hosting for retirements and landmark moments. The honouree is celebrated with warmth while the programme stays on track.",
+      "icon": "star",
+      "price": null
+    }
+  ],
+  "testimonials": []
+}

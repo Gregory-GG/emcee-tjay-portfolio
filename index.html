@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en" data-theme="dark" data-bs-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Emcee TJAY | MC, Comedian & Event Host in Nairobi</title>
+    <meta
+      name="description"
+      content="Emcee TJAY (Brian Mugambi) is a Nairobi MC, comedian and event host for corporate events, weddings, ruracios, graduations and celebrations."
+    />
+    <meta name="theme-color" content="#0E0E10" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Emcee TJAY" />
+    <meta property="og:image" content="/images/og-image.jpg" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap"
+      rel="stylesheet"
+    />
+
+    <script>
+      // Apply the saved or preferred theme before first paint to avoid a flash.
+      (function () {
+        var theme = 'dark';
+        try {
+          var saved = localStorage.getItem('tjay-theme');
+          if (saved === 'light' || saved === 'dark') theme = saved;
+          else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches) theme = 'light';
+        } catch (e) {}
+        document.documentElement.setAttribute('data-theme', theme);
+        document.documentElement.setAttribute('data-bs-theme', theme);
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>Emcee TJAY: MC, comedian and event host in Nairobi. Call 0769 819 970 or WhatsApp to book.</noscript>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

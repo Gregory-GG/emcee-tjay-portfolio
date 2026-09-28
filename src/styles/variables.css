@@ -1,0 +1,70 @@
+/* Theme tokens. Dark is the default; light overrides the same names. */
+:root,
+:root[data-theme='dark'] {
+  --c-bg: #0e0e10;
+  --c-surface: #17171b;
+  --c-surface-2: #202026;
+  --c-text: #f4f2ed;
+  --c-muted: #a9a6a0;
+  --c-border: rgba(244, 242, 237, 0.1);
+  --c-gold: #c9a24a;
+  --c-gold-strong: #dbb65e;
+  --c-gold-text: #d4ae57; /* gold for text on the page background (AA+) */
+  --c-on-gold: #0e0e10;
+  --c-teal: #1e6b5a;
+  --c-purple: #4a2b8a;
+  --c-overlay: rgba(14, 14, 16, 0.92);
+  --shadow-lift: 0 18px 40px -18px rgba(0, 0, 0, 0.75);
+  color-scheme: dark;
+}
+
+:root[data-theme='light'] {
+  --c-bg: #f6f4ef;
+  --c-surface: #ffffff;
+  --c-surface-2: #eeebe3;
+  --c-text: #16161a;
+  --c-muted: #5c5850;
+  --c-border: rgba(22, 22, 26, 0.12);
+  --c-gold: #c9a24a;
+  --c-gold-strong: #b58e36;
+  --c-gold-text: #7a5c17; /* darker gold keeps text contrast on cream */
+  --c-on-gold: #0e0e10;
+  --c-overlay: rgba(14, 14, 16, 0.9);
+  --shadow-lift: 0 18px 40px -20px rgba(22, 22, 26, 0.35);
+  color-scheme: light;
+}
+
+:root {
+  --font-heading: 'Playfair Display', Georgia, 'Times New Roman', serif;
+  --font-body: 'Manrope', system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif;
+  --radius: 14px;
+  --radius-sm: 8px;
+  --section-y: clamp(4rem, 9vw, 7.5rem);
+  --nav-h: 72px;
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+/* Map tokens onto Bootstrap so its components follow the theme. */
+:root[data-theme='dark'],
+:root[data-theme='light'] {
+  --bs-body-bg: var(--c-bg);
+  --bs-body-color: var(--c-text);
+  --bs-body-font-family: var(--font-body);
+  --bs-secondary-color: var(--c-muted);
+  --bs-border-color: var(--c-border);
+  --bs-link-color: var(--c-gold-text);
+  --bs-link-color-rgb: 201, 162, 74;
+  --bs-link-hover-color: var(--c-gold-strong);
+  --bs-heading-color: var(--c-text);
+  --bs-emphasis-color: var(--c-text);
+  --bs-tertiary-bg: var(--c-surface);
+  --bs-secondary-bg: var(--c-surface-2);
+  --bs-focus-ring-color: rgba(201, 162, 74, 0.45);
+  --bs-form-invalid-color: #ff8a7a;
+  --bs-form-invalid-border-color: #e0604f;
+}
+
+:root[data-theme='light'] {
+  --bs-form-invalid-color: #b3261e;
+  --bs-form-invalid-border-color: #b3261e;
+}
