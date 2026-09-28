@@ -13,6 +13,7 @@ const site = {
   email: 'brianmugambi2547@gmail.com',
   instagram: 'https://www.instagram.com/tjay.emcee/',
   instagramHandle: '@tjay.emcee',
+  address: 'Nairobi Garage, Delta Annex, Westlands Ring Road, Nairobi',
   coverage: 'Nairobi, Kiambu & surrounding counties. Travel on request.',
   pricingNote: 'Every event is different. Enquire for a quote.',
   photoCredit: 'Studio photography: Dan Epic Studio',

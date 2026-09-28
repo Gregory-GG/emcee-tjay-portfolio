@@ -6,6 +6,9 @@ export function whatsappUrl(text = site.whatsappDefaultText) {
 
 export const telUrl = `tel:${site.phone}`;
 export const mailUrl = `mailto:${site.email}`;
+export const mapUrl = site.address
+  ? `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(site.address)}`
+  : null;
 
 /** Accepts 07XXXXXXXX, 01XXXXXXXX, +2547/1XXXXXXXX and 2547/1XXXXXXXX (spaces and dashes allowed). */
 export function isKenyanPhone(value) {

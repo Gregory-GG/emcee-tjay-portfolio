@@ -23,6 +23,7 @@ Everything personal lives in **`src/config/site.js`**: name, tagline, phone, Wha
 
 - `whatsapp` must be in international format with no `+` or spaces (e.g. `254769819970`).
 - `siteUrl`: once the site is live, set this to the full address (e.g. `https://emceetjay.co.ke`) so link previews on WhatsApp, Facebook and X show the photo correctly.
+- `address` is shown in the footer and on the Book page, together with an embedded Google Map and a "Get directions" button. The map needs no API key. Set `address` to `null` to hide all of them.
 - A section whose value is `null` or an empty list (`[]`) is hidden automatically.
 
 ## 3. Content: `src/data/db.json`

@@ -3,12 +3,13 @@ import { useSearchParams } from 'react-router-dom';
 import { Alert, Button, Col, Container, Form, Row } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faInstagram, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import { faCircleCheck, faEnvelope, faLocationDot, faPaperPlane, faPhone } from '@fortawesome/free-solid-svg-icons';
+import { faBuilding, faCircleCheck, faEnvelope, faLocationDot, faPaperPlane, faPhone } from '@fortawesome/free-solid-svg-icons';
 import site from '../config/site.js';
 import { getService, getServices } from '../api/data.js';
-import { formatDate, isKenyanPhone, mailUrl, telUrl, whatsappUrl } from '../utils/contact.js';
+import { formatDate, isKenyanPhone, mailUrl, mapUrl, telUrl, whatsappUrl } from '../utils/contact.js';
 import SEO from '../components/SEO.jsx';
 import SectionHeading from '../components/SectionHeading.jsx';
+import LocationMap from '../components/LocationMap.jsx';
 
 const EMPTY = { name: '', phone: '', email: '', eventType: '', eventDate: '', venue: '', guests: '', message: '' };
 
@@ -266,6 +267,13 @@ export default function Book() {
                       <FontAwesomeIcon icon={faInstagram} fixedWidth className="text-gold" /> {site.instagramHandle}
                     </a>
                   </li>
+                  {site.address && (
+                    <li>
+                      <a href={mapUrl} target="_blank" rel="noopener noreferrer">
+                        <FontAwesomeIcon icon={faBuilding} fixedWidth className="text-gold" /> {site.address}
+                      </a>
+                    </li>
+                  )}
                   {site.coverage && (
                     <li className="text-muted-brand">
                       <FontAwesomeIcon icon={faLocationDot} fixedWidth className="text-gold" /> {site.coverage}
@@ -275,6 +283,9 @@ export default function Book() {
               </aside>
             </Col>
           </Row>
+          <div className="mt-5">
+            <LocationMap />
+          </div>
         </Container>
       </section>
     </>
